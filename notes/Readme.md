@@ -1,0 +1,1 @@
+Bueno...la verdad no tengo mucha idea de que poner en este Readme. Es el primero que hago y no hay mucho de momento que pueda aclarar. De momento no estoy completamente seguro de cuantas secciones necesitare o de si utilizare reatc o ire por puro html, js y css para el proyecto.
